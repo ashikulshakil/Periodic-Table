@@ -1,0 +1,8 @@
+Atomic Number: 4
+Atomic Weight: 9.0121831
+Melting Point: 1560 K (1287°C or 2349°F)
+Boiling Point: 2744 K (2471°C or 4480°F)
+Density: 1.85 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 2    Group Number: 2    Group Name: Alkaline Earth Metal

@@ -1,0 +1,9 @@
+Atomic Number: 86
+Atomic Weight: 222
+Melting Point: 202 K (-71°C or -96°F)
+Boiling Point: 211.45 K (-61.7°C or -79.1°F)
+Density: 0.00973 grams per cubic centimeter
+Phase at Room Temperature: Gas
+Element Classification: Non-metal
+Period Number: 6    Group Number: 18    Group Name: Noble Gas
+Radioactive

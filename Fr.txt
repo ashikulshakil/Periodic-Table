@@ -1,0 +1,9 @@
+Atomic Number: 87
+Atomic Weight: 223
+Melting Point: 300 K (27°C or 81°F)
+Boiling Point: Unknown
+Density: Unknown
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 7    Group Number: 1    Group Name: Alkali Metal
+Radioactive

@@ -1,0 +1,8 @@
+Atomic Number: 5
+Atomic Weight: 10.814
+Melting Point: 2348 K (2075°C or 3767°F)
+Boiling Point: 4273 K (4000°C or 7232°F)
+Density: 2.37 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Semi-metal
+Period Number: 2    Group Number: 13    Group Name: none

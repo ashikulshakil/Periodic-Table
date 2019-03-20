@@ -1,0 +1,8 @@
+Atomic Number: 44
+Atomic Weight: 101.07
+Melting Point: 2607 K (2334°C or 4233°F)
+Boiling Point: 4423 K (4150°C or 7502°F)
+Density: 12.1 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 5    Group Number: 8    Group Name: none

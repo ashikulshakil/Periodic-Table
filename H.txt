@@ -1,0 +1,8 @@
+Atomic Number: 1
+Atomic Weight: 1.00798
+Melting Point: 13.81 K (-259.34°C or -434.81°F)
+Boiling Point: 20.28 K (-252.87°C or -423.17°F)
+Density: 0.00008988 grams per cubic centimeter
+Phase at Room Temperature: Gas
+Element Classification: Non-metal
+Period Number: 1    Group Number: 1    Group Name: none

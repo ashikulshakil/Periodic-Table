@@ -1,0 +1,8 @@
+Atomic Number: 79
+Atomic Weight: 196.966569
+Melting Point: 1337.33 K (1064.18°C or 1947.52°F)
+Boiling Point: 3129 K (2856°C or 5173°F)
+Density: 19.282 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 6    Group Number: 11    Group Name: none

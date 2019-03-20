@@ -1,0 +1,9 @@
+Atomic Number: 118
+Atomic Weight: 294
+Melting Point: Unknown
+Boiling Point: Unknown
+Density: Unknown
+Phase at Room Temperature: Expected to be a Gas
+Element Classification: Non-metal
+Period Number: 7    Group Number: 18    Group Name: Noble Gas
+Radioactive and Artificially Produced

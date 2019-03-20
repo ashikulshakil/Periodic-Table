@@ -1,0 +1,8 @@
+Atomic Number: 53
+Atomic Weight: 126.90447
+Melting Point: 386.85 K (113.7°C or 236.7°F)
+Boiling Point: 457.55 K (184.4°C or 364.0°F)
+Density: 4.93 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Non-metal
+Period Number: 5    Group Number: 17    Group Name: Halogen

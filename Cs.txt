@@ -1,0 +1,8 @@
+Atomic Number: 55
+Atomic Weight: 132.90545196
+Melting Point: 301.59 K (28.44°C or 83.19°F)
+Boiling Point: 944 K (671°C or 1240°F)
+Density: 1.93 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 6    Group Number: 1    Group Name: Alkali Metal

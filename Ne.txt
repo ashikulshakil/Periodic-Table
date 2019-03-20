@@ -1,0 +1,8 @@
+Atomic Number: 10
+Atomic Weight: 20.1797
+Melting Point: 24.56 K (-248.59°C or -415.46°F)
+Boiling Point: 27.07 K (-246.08°C or -410.94°F)
+Density: 0.0008999 grams per cubic centimeter
+Phase at Room Temperature: Gas
+Element Classification: Non-metal
+Period Number: 2    Group Number: 18    Group Name: Noble Gas

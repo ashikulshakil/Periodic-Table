@@ -1,0 +1,8 @@
+Atomic Number: 22
+Atomic Weight: 47.867
+Melting Point: 1941 K (1668°C or 3034°F)
+Boiling Point: 3560 K (3287°C or 5949°F)
+Density: 4.5 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 4    Group Number: 4    Group Name: none

@@ -1,0 +1,9 @@
+Atomic Number: 110
+Atomic Weight: 281
+Melting Point: Unknown
+Boiling Point: Unknown
+Density: Unknown
+Phase at Room Temperature: Expected to be a Solid
+Element Classification: Metal
+Period Number: 7    Group Number: 10    Group Name: none
+Radioactive and Artificially Produced

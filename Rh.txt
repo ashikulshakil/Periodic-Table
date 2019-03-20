@@ -1,0 +1,8 @@
+Atomic Number: 45
+Atomic Weight: 102.90550
+Melting Point: 2237 K (1964°C or 3567°F)
+Boiling Point: 3968 K (3695°C or 6683°F)
+Density: 12.4 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 5    Group Number: 9    Group Name: none

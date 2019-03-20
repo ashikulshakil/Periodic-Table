@@ -1,0 +1,8 @@
+Atomic Number: 11
+Atomic Weight: 22.98976928
+Melting Point: 370.95 K (97.80°C or 208.04°F)
+Boiling Point: 1156 K (883°C or 1621°F)
+Density: 0.97 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 3    Group Number: 1    Group Name: Alkali Metal

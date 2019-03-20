@@ -1,0 +1,9 @@
+Atomic Number: 90
+Atomic Weight: 232.0377
+Melting Point: 2023 K (1750°C or 3182°F)
+Boiling Point: 5061 K (4788°C or 8650°F)
+Density: 11.72 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 7    Group Number: none    Group Name: Actinide
+Radioactive

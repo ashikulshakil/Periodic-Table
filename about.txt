@@ -1,0 +1,20 @@
+                       About This Dextop Application:
+
+ You can know about an element of Periodic Table after clicking on the element.
+ You can also know details by searching system. On the left top of the apps there
+ is a search bar. You can input the Valid symbol full name or atomic number and 
+ then click on "OK" or "Enter" on keyboard.
+
+ On the right top of the Apps There a Quantum number calculator . You can Input 
+ Electron Configuration Of an element and then input Nth electron and click on
+ "Ok" . Then you will get The 4 Quantum number of the electron
+
+ Project: By
+ Md. Ahikul Islam Shakil
+ Reg:2013331048
+
+ UnderSupervision of :
+
+ Mr. Md. Eamin Rahman
+ Assistant Professor
+ Shahjalal University of Science and Technology,Sylhet.

@@ -1,0 +1,8 @@
+Atomic Number: 6
+Atomic Weight: 12.0106
+Melting Point: 3823 K (3550°C or 6422°F)
+Boiling Point: 4098 K (3825°C or 6917°F)
+Density: 2.2670 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Non-metal
+Period Number: 2    Group Number: 14    Group Name: none

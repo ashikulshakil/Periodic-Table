@@ -1,0 +1,9 @@
+Atomic Number: 85
+Atomic Weight: 210
+Melting Point: 575 K (302°C or 576°F)
+Boiling Point: Unknown
+Density: about 7 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Semi-metal
+Period Number: 6    Group Number: 17    Group Name: Halogen
+Radioactive

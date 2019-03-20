@@ -1,0 +1,8 @@
+Atomic Number: 14
+Atomic Weight: 28.085
+Melting Point: 1687 K (1414°C or 2577°F)
+Boiling Point: 3538 K (3265°C or 5909°F)
+Density: 2.3296 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Semi-metal
+Period Number: 3    Group Number: 14    Group Name: none

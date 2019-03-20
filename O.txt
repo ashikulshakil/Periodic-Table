@@ -1,0 +1,8 @@
+Atomic Number: 8
+Atomic Weight: 15.99940
+Melting Point: 54.36 K (-218.79°C or -361.82°F)
+Boiling Point: 90.20 K (-182.95°C or -297.31°F)
+Density: 0.001429 grams per cubic centimeter
+Phase at Room Temperature: Gas
+Element Classification: Non-metal
+Period Number: 2    Group Number: 16    Group Name: Chalcogen

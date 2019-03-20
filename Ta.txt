@@ -1,0 +1,8 @@
+Atomic Number: 73
+Atomic Weight: 180.94788
+Melting Point: 3290 K (3017°C or 5463°F)
+Boiling Point: 5731 K (5458°C or 9856°F)
+Density: 16.4 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 6    Group Number: 5    Group Name: none

@@ -1,0 +1,8 @@
+Atomic Number: 16
+Atomic Weight: 32.068
+Melting Point: 388.36 K (115.21°C or 239.38°F)
+Boiling Point: 717.75 K (444.60°C or 832.28°F)
+Density: 2.067 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Non-metal
+Period Number: 3    Group Number: 16    Group Name: Chalcogen

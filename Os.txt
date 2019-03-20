@@ -1,0 +1,8 @@
+Atomic Number: 76
+Atomic Weight: 190.23
+Melting Point: 3306 K (3033°C or 5491°F)
+Boiling Point: 5285 K (5012°C or 9054°F)
+Density: 22.57 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 6    Group Number: 8    Group Name: none

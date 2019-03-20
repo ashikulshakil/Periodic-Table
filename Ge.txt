@@ -1,0 +1,8 @@
+Atomic Number: 32
+Atomic Weight: 72.630
+Melting Point: 1211.40 K (938.25°C or 1720.85°F)
+Boiling Point: 3106 K (2833°C or 5131°F)
+Density: 5.323 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Semi-metal
+Period Number: 4    Group Number: 14    Group Name: none

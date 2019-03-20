@@ -1,0 +1,8 @@
+Atomic Number: 54
+Atomic Weight: 131.293
+Melting Point: 161.36 K (-111.79°C or -169.22°F)
+Boiling Point: 165.03 K (-108.12°C or -162.62°F)
+Density: 0.005887 grams per cubic centimeter
+Phase at Room Temperature: Gas
+Element Classification: Non-metal
+Period Number: 5    Group Number: 18    Group Name: Noble Gas

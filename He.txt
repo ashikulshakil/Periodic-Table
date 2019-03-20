@@ -1,0 +1,8 @@
+Atomic Number: 2
+Atomic Weight: 4.002602
+Melting Point: 0.95 K (-272.2°C or -458.0°F)
+Boiling Point: 4.22 K (-268.93°C or -452.07°F)
+Density: 0.0001785 grams per cubic centimeter
+Phase at Room Temperature: Gas
+Element Classification: Non-metal
+Period Number: 1    Group Number: 18    Group Name: Noble Gas

@@ -1,0 +1,8 @@
+Atomic Number: 50
+Atomic Weight: 118.710
+Melting Point: 505.08 K (231.93°C or 449.47°F)
+Boiling Point: 2875 K (2602°C or 4715°F)
+Density: 7.287 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 5    Group Number: 14    Group Name: none

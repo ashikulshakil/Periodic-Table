@@ -1,0 +1,8 @@
+Atomic Number: 51
+Atomic Weight: 121.760
+Melting Point: 903.78 K (630.63°C or 1167.13°F)
+Boiling Point: 1860 K (1587°C or 2889°F)
+Density: 6.685 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Semi-metal
+Period Number: 5    Group Number: 15    Group Name: Pnictogen

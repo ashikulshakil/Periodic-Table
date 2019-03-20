@@ -1,0 +1,9 @@
+Atomic Number: 83
+Atomic Weight: 208.98040
+Melting Point: 544.55 K (271.40°C or 520.52°F)
+Boiling Point: 1837 K (1564°C or 2847°F)
+Density: 9.807 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 6    Group Number: 15    Group Name: Pnictogen
+Radioactive

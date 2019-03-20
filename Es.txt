@@ -1,0 +1,9 @@
+Atomic Number: 99
+Atomic Weight: 252
+Melting Point: 1133 K (860°C or 1580°F)
+Boiling Point: Unknown
+Density: Unknown
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 7    Group Number: none    Group Name: Actinide
+Radioactive and Artificially Produced

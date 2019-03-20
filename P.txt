@@ -1,0 +1,8 @@
+Atomic Number: 15
+Atomic Weight: 30.973761998
+Melting Point: 317.30 K (44.15°C or 111.47°F)
+Boiling Point: 553.65 K (280.5°C or 536.9°F)
+Density: 1.82 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Non-metal
+Period Number: 3    Group Number: 15    Group Name: Pnictogen

@@ -1,0 +1,8 @@
+Atomic Number: 30
+Atomic Weight: 65.38
+Melting Point: 692.68 K (419.53°C or 787.15°F)
+Boiling Point: 1180 K (907°C or 1665°F)
+Density: 7.134 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 4    Group Number: 12    Group Name: none

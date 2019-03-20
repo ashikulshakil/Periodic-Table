@@ -1,0 +1,8 @@
+Atomic Number: 27
+Atomic Weight: 58.933194
+Melting Point: 1768 K (1495°C or 2723°F)
+Boiling Point: 3200 K (2927°C or 5301°F)
+Density: 8.86 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 4    Group Number: 9    Group Name: none

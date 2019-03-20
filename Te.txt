@@ -1,0 +1,8 @@
+Atomic Number: 52
+Atomic Weight: 127.60
+Melting Point: 722.66 K (449.51°C or 841.12°F)
+Boiling Point: 1261 K (988°C or 1810°F)
+Density: 6.232 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Semi-metal
+Period Number: 5    Group Number: 16    Group Name: Chalcogen

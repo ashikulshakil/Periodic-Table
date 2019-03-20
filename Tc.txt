@@ -1,0 +1,9 @@
+Atomic Number: 43
+Atomic Weight: 98
+Melting Point: 2430 K (2157°C or 3915°F)
+Boiling Point: 4538 K (4265°C or 7709°F)
+Density: 11 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 5    Group Number: 7    Group Name: none
+Radioactive and Artificially Produced

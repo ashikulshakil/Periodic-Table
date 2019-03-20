@@ -1,0 +1,9 @@
+Atomic Number: 104
+Atomic Weight: 263
+Melting Point: Unknown
+Boiling Point: Unknown
+Density: Unknown
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 7    Group Number: 4    Group Name: none
+Radioactive and Artificially Produced

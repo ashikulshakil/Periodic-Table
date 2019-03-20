@@ -1,0 +1,8 @@
+Atomic Number: 37
+Atomic Weight: 85.4678
+Melting Point: 312.46 K (39.31°C or 102.76°F)
+Boiling Point: 961 K (688°C or 1270°F)
+Density: 1.53 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 5    Group Number: 1    Group Name: Alkali Metal

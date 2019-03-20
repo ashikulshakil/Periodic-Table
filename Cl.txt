@@ -1,0 +1,8 @@
+Atomic Number: 17
+Atomic Weight: 35.452
+Melting Point: 171.65 K (-101.5°C or -150.7°F)
+Boiling Point: 239.11 K (-34.04°C or -29.27°F)
+Density: 0.003214 grams per cubic centimeter
+Phase at Room Temperature: Gas
+Element Classification: Non-metal
+Period Number: 3    Group Number: 17    Group Name: Halogen

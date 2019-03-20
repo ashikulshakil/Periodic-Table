@@ -1,0 +1,8 @@
+Atomic Number: 67
+Atomic Weight: 164.93033
+Melting Point: 1747 K (1474°C or 2685°F)
+Boiling Point: 2973 K (2700°C or 4892°F)
+Density: 8.80 grams per cubic centimeter
+Phase at Room Temperature: Solid
+Element Classification: Metal
+Period Number: 6    Group Number: none    Group Name: Lanthanide
